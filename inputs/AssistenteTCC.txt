@@ -1,0 +1,39 @@
+Assistente TCC
+Desenvolvimento de um Chatbot Inteligente para Análise de Documentos Acadêmicos sobre Privacidade e LGPD usando Azure Foundry e GPT-4.0
+Introdução
+A implementação da Lei Geral de Proteção de Dados (LGPD) no Brasil trouxe desafios para pesquisadores e profissionais que precisam entender e aplicar seus princípios. Este projeto busca desenvolver um chatbot baseado em LLM que possa analisar PDFs de projetos acadêmicos, extrair informações relevantes e fornecer respostas com alto grau de precisão. Para garantir eficiência e escalabilidade, o sistema será desenvolvido no Azure Foundry e utilizará GPT-4.0 como modelo de linguagem e Embedded-3-Large como indexador semântico.
+Objetivo Geral
+Criar um chatbot capaz de interpretar e analisar documentos acadêmicos em PDF sobre privacidade e LGPD, permitindo aos usuários interagir com o conteúdo de forma natural e otimizada.
+Objetivos Específicos
+•	Implementar o GPT-4.0 como base para compreensão semântica e geração de respostas.
+•	Integrar o modelo Embedded-3-Large para indexação eficiente dos documentos acadêmicos.
+•	Desenvolver uma API conversacional, hospedada no Azure Foundry, para interação dinâmica com os usuários.
+•	Testar e validar o chatbot com diferentes documentos acadêmicos sobre LGPD.
+Metodologia
+1. Coleta e Pré-processamento de Dados
+•	Seleção de projetos de TCC focados em privacidade e proteção de dados.
+2. Implementação do Modelo de Linguagem (LLM)
+•	Integração do GPT-4.0 para análise semântica dos textos extraídos.
+3. Indexação e Recuperação de Informações
+•	Uso do Embedded-3-Large para organização e consulta rápida dos documentos.
+•	Ingestão de PDFs em texto estruturado.
+4. Testes e Ajustes
+•	Validação com documentos reais e ajuste dos parâmetros para melhoria contínua.
+
+
+
+Justificativa da Escolha dos Modelos
+GPT-4.0
+•	Alto desempenho na compreensão semântica e geração de respostas coerentes.
+•	Capacidade de interpretar textos longos e complexos, ideal para documentos acadêmicos.
+•	Segurança e confiabilidade, já que é um modelo treinado com rigorosos padrões de qualidade.
+Embedded-3-Large
+•	Eficiência na indexação e recuperação de informações com baixa latência.
+•	Precisão na associação semântica entre documentos, garantindo melhor contexto nas respostas.
+•	Otimização do armazenamento e busca de grandes volumes de informações acadêmicas.
+
+Resultados Esperados
+•	Um chatbot funcional capaz de analisar e responder questões sobre documentos acadêmicos de privacidade e LGPD.
+•	Facilidade de acesso à informação para estudantes e pesquisadores.
+•	Validação do uso de LLMs em análise documental dentro de ambientes acadêmicos.
+
