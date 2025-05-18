@@ -60,10 +60,10 @@ Embedded-3-Large
 **Resposta 1:** 
 
 As principais violações de direitos analisadas pela Autoridade Nacional de Proteção de Dados (ANPD) estão relacionadas a descumprimentos da Lei Geral de Proteção de Dados (LGPD). Entre as situações identificadas, destacam-se:
-- Vazamento de Dados Pessoais: A ANPD atua em casos de vazamento de dados, analisando e autuando os responsáveis pelo ocorrido 1 .
-- Acessos Indevidos a Dados Pessoais: O órgão fiscaliza e toma providências contra acessos não autorizados a informações pessoais 1 .
-- Descumprimento de Direitos dos Titulares de Dados: A ANPD pode ser contatada pelos titulares quando seus direitos previstos na LGPD não são atendidos pelos controladores dos dados 1 .
-- Tratamento Automatizado com Viés Discriminatório: Conforme o artigo 20, § 3º da LGPD, a ANPD tem o poder de realizar auditorias para identificar aspectos discriminatórios no uso automatizado de dados pessoais 2 .
+- Vazamento de Dados Pessoais: A ANPD atua em casos de vazamento de dados, analisando e autuando os responsáveis pelo ocorrido.
+- Acessos Indevidos a Dados Pessoais: O órgão fiscaliza e toma providências contra acessos não autorizados a informações pessoais.
+- Descumprimento de Direitos dos Titulares de Dados: A ANPD pode ser contatada pelos titulares quando seus direitos previstos na LGPD não são atendidos pelos controladores dos dados.
+- Tratamento Automatizado com Viés Discriminatório: Conforme o artigo 20, § 3º da LGPD, a ANPD tem o poder de realizar auditorias para identificar aspectos discriminatórios no uso automatizado de dados pessoais.
 - Infrações às Diretrizes de Segurança e Governança: A ANPD fiscaliza a estruturação dos sistemas de tratamento de dados, verificando se eles atendem aos requisitos de segurança, boas práticas e governança previstos na LGPD.
 
 Essas violações podem levar a sanções que variam desde advertências simples até multas de até 2% do faturamento da empresa, bloqueio ou exclusão dos dados envolvidos, e suspensão ou proibição do tratamento de dados pessoais.
